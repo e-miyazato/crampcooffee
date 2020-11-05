@@ -1,0 +1,41 @@
+body{
+    color: whitesmoke;
+    background-image: url(images/黒板壁画.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+li{
+    list-style-type: none;
+    font-family: 'Marcellus SC', serif;
+    font-size: 35px;
+    margin: auto 70px;
+    padding-bottom: 15px;
+    padding-left: 80px;
+}
+h2{
+    margin: 80px 0 0 100px;
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 60px;
+    padding-bottom: 30px;
+}
+
+
+.menu-title{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+.price{
+    display: flex;
+    justify-content: space-between;
+  
+}
+
+.price span{
+    display: inline-block;
+    margin-right: 600px;
+    font-family: 'Alex Brush', cursive;
+    font-size: 30px;
+}
